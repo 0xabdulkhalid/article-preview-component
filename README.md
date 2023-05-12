@@ -66,7 +66,7 @@
   | |
   | <img src='./images/pagespeed-insights-score.svg' alt='Scoreboard'> |
   | |
-  | Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdulkhalid-github-io-interactive-rating-component/cugaaj3u85\?form_factor\=mobile) to get live score |
+  | Check out [**Pagespeed Insights**](https://pagespeed.web.dev/analysis/https-0xabdulkhalid-github-io-article-preview-component/beah7hxkpp?form_factor=mobile) to get live score |
   ||
 
 <br>
