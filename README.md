@@ -51,7 +51,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [To be posted :hourglass_flowing_sand:](#links) |
+  | Solution URL: | [ARTICLE PREVIEW COMP 🎯 [ ACCESSIBLE - BEM - VANILLA CSS3 - ES6 ]](https://www.frontendmentor.io/solutions/article-preview-comp-accessible-bem-vanilla-css3-es6--AfSPSnkQ7) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/article-preview-component/](https://0xabdulkhalid.github.io/article-preview-component/) |
   |||
 
